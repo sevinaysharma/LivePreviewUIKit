@@ -13,6 +13,7 @@
 		D4451C1A29F1AF8F00D6C827 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4451C1829F1AF8F00D6C827 /* Main.storyboard */; };
 		D4451C1C29F1AF9000D6C827 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4451C1B29F1AF9000D6C827 /* Assets.xcassets */; };
 		D4451C1F29F1AF9000D6C827 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4451C1D29F1AF9000D6C827 /* LaunchScreen.storyboard */; };
+		D4451C2729F1AFAA00D6C827 /* LivePreviewUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4451C2629F1AFAA00D6C827 /* LivePreviewUIKit.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4451C1B29F1AF9000D6C827 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4451C1E29F1AF9000D6C827 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4451C2029F1AF9000D6C827 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4451C2629F1AFAA00D6C827 /* LivePreviewUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LivePreviewUIKit.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D4451C1229F1AF8F00D6C827 /* AppDelegate.swift */,
 				D4451C1429F1AF8F00D6C827 /* SceneDelegate.swift */,
 				D4451C1629F1AF8F00D6C827 /* ViewController.swift */,
+				D4451C2629F1AFAA00D6C827 /* LivePreviewUIKit.swift */,
 				D4451C1829F1AF8F00D6C827 /* Main.storyboard */,
 				D4451C1B29F1AF9000D6C827 /* Assets.xcassets */,
 				D4451C1D29F1AF9000D6C827 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4451C1729F1AF8F00D6C827 /* ViewController.swift in Sources */,
+				D4451C2729F1AFAA00D6C827 /* LivePreviewUIKit.swift in Sources */,
 				D4451C1329F1AF8F00D6C827 /* AppDelegate.swift in Sources */,
 				D4451C1529F1AF8F00D6C827 /* SceneDelegate.swift in Sources */,
 			);
